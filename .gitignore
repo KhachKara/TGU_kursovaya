@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# khach
+~$*.*
+*.tmp
+*.mp4
+*.csv
