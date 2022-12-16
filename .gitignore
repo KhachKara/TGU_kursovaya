@@ -132,4 +132,4 @@ dmypy.json
 ~$*.*
 *.tmp
 *.mp4
-*.csv
+#*.csv
